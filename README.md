@@ -1,2 +1,6 @@
-# csd-340
-This repository holds all my work for csd-340 at Bellevue University
+<h1>CSD 340 Web Development with HTML and CSS</h1>
+<h2>Contributors</h2>
+<ul>
+  <li>Jeff Victorino</li>
+  <li>Sue Sampson</li>
+</ul>
