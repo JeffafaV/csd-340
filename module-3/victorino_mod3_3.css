@@ -1,0 +1,52 @@
+/* Jeff Victorino
+06/14/2026 
+Module 3.3 Assignment */
+
+h1 {
+  text-align: center;
+}
+h3 {
+  font-weight: 500;
+}
+
+li {
+  font-weight: 300;
+}
+
+#container > .side-by-side {
+  width: 45%;
+}
+
+#container > div.left {
+  float: left;
+  border: 1px solid red;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+#container > div.right {
+  float: right;
+  border: 1px dashed red;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+div.right li {
+  list-style: upper-roman;
+}
+
+#container > div.bottom {
+  width: 100%;
+
+  margin-top: 60%;
+}
+
+div.bottom > a {
+  float: right;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+div.bottom > a:hover {
+  text-decoration: underline;
+}
