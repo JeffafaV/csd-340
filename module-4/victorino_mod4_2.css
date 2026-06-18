@@ -1,0 +1,35 @@
+h1,
+h3 {
+  text-align: center;
+  color: rgba(255, 87, 51, 1);
+}
+
+#image-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 10%;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.75em;
+}
+
+#container > div.bottom {
+  width: 100%;
+  margin-top: 20%;
+}
+
+div.bottom > a {
+  float: right;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+div.bottom > a:hover {
+  text-decoration: underline;
+}
